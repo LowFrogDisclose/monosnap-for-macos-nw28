@@ -1,4 +1,4 @@
-
+Monosnap for macOS new Addon: custom-actions & startup-manager offers the most advanced Monosnap for macOS addon, with custom-actions and startup-manager. Ideal for macOS power
 
 
 
